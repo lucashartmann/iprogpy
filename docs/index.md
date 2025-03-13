@@ -1,14 +1,26 @@
-# Trilha Python
+# Trilha Python - SENAC Tech 2025
 
 
+## Material de estudo
+
+- [Pense em Python](https://penseallen.github.io/PensePython2e/) - Livro (HTML)
+- [Python para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Livro (PDF)
 ## Apresentações
+
+Slides das apresentações feitas em aula.
 
 - [Trilha Python](trilhapython.html)
 - [Professor](prof.html)
 - [Livros Python](livros_python.html)
 
 
+## Roteiro de aulas
+
+Temos aulas todos os dias mas o roteiro é dividido em semanas para que você possa acomodar melhor as atividades propostas aos seus horários disponíveis para estudo, que entendemos que possam variar a cada dia.
+
 ### Semana 1
+
+> **Não falte nas duas primeiras aulas!** A `UC 1: Definir algoritmos` tem apenas `6h` e se você faltar 1 só aula já irá reprovar por falta pois terá menos de 75% de frequência.
 
 Leituras
 
@@ -34,8 +46,8 @@ aprender a programar?
         - 1.12 A jornada do aprendizado
 
 
-
-
 ## Textos
+
+Sugestões de textos que não constam nos livros e materiais de Python. 
 
 - [A fábula dos porcos assados](textos/porcosassados.md), Gustavo Cirigliano 
