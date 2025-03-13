@@ -3,8 +3,11 @@
 
 ## Material de estudo
 
+- Repositório do curso [ https://github.com/lgmaciel/iprogpy](https://github.com/lgmaciel/iprogpy) - GitHub
+
 - [Pense em Python](https://penseallen.github.io/PensePython2e/) - Livro (HTML)
 - [Python para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Livro (PDF)
+
 ## Apresentações
 
 Slides das apresentações feitas em aula.
@@ -20,7 +23,7 @@ Temos aulas todos os dias mas o roteiro é dividido em semanas para que você po
 
 ### Semana 1
 
-> **Não falte nas duas primeiras aulas!** A `UC 1: Definir algoritmos` tem apenas `6h` e se você faltar 1 só aula já irá reprovar por falta pois terá menos de 75% de frequência.
+> **Não falte nas duas primeiras aulas!** A `UC 1: Definir algoritmos` tem apenas `6h` e se você faltar 1 só aula já reprovará por falta pois terá menos de 75% de frequência.
 
 Leituras
 
