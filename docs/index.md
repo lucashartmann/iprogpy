@@ -1,5 +1,6 @@
 # Trilha Python - SENAC Tech 2025
 
+> Turma: 14319, 14320, 14321
 
 ## Material de estudo
 
@@ -13,6 +14,7 @@
 Slides das apresentações feitas em aula.
 
 - [Trilha Python](trilhapython.html)
+- [Como fazer login](login.html)
 - [Professor](prof.html)
 - [Livros Python](livros_python.html)
 
