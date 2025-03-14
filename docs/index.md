@@ -5,5 +5,3 @@
 - [Slides das apresentações](slides.md)
 - [Roteiro de aulas](roteiro.md)
 - [Textos](textos.md)
-
-### [voltar](index.md)
