@@ -6,6 +6,6 @@
 - [Textos](textos.md)
 - [Cronograma](cronograma.md)
 
-## Algorítmos e programação
+## Lógica de programação
 
-- [Aula 0](helloseq.md.md) - Hello Python e Sequência de passos
+- [Aula 0](helloseq.md) - Hello Python e Sequência de passos
