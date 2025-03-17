@@ -10,3 +10,12 @@
 
 - [Hello Python e uma sequência de passos](helloseq.md)
 - [Variáveis e entrada de dados](varentr.md)
+- Desafio: [Sprites e coordenadas](spritesc.md)
+
+### Pensamento Computacional
+
+- Decomposição
+- Reconhecimento de padrões
+- Abstração
+- Pensamento algorítmico
+
