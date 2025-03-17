@@ -6,12 +6,7 @@ Temos aulas todos os dias mas o roteiro é dividido em semanas para que você po
 
 ### Semana 1
 
-![Hello Python!](img/arcade-apy-hello.png)
-![Uma sequência de passos](img/arcade-apy-sequencia.png)
-
 > **Não falte nas duas primeiras aulas!** A `UC 1: Definir algoritmos` tem apenas `6h` e se você faltar 1 só aula já reprovará por falta pois terá menos de 75% de frequência.
-
-
 
 
 Leituras
