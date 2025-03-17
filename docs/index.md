@@ -8,4 +8,5 @@
 
 ## Lógica de programação
 
-- [Aula 0](helloseq.md) - Hello Python e Sequência de passos
+- [Hello Python e uma sequência de passos](helloseq.md)
+- [Variáveis e entrada de dados](varentr.md)

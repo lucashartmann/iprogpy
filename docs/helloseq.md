@@ -1,6 +1,6 @@
 # [Trilha Python - SENAC Tech 2025](index.md)
 
-## Algorítmos e programação
+## Lógica de programação
 
 Os programas de exemplo abaixo rodam em um ambiente de desenvolvimento chamado [MakeCode Arcade](https://arcade.makecode.com).
 
@@ -23,3 +23,6 @@ Vamos testar se tudo está funcionando rodando este primeiro exemplo.
 Este é um algorítmo sequêncial. Cada linha do programa é uma instrução que damos ao computador e ele executa cada uma passo-a-passo na sequência em que foram escritas.
 
 ![Uma sequência de passos](img/arcade-apy-sequencia.png)
+
+
+### [voltar](index.md)
