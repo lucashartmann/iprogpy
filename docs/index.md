@@ -9,13 +9,7 @@
 ## Lógica de programação
 
 - [Hello Python e uma sequência de passos](helloseq.md)
+- Slides: [O que é um programa?](oqehumprog.html)
 - [Variáveis e entrada de dados](varentr.md)
 - Desafio: [Sprites e coordenadas](spritesc.md)
-
-### Pensamento Computacional
-
-- Decomposição
-- Reconhecimento de padrões
-- Abstração
-- Pensamento algorítmico
-
+- [Execução condicional](cifelse.md)
