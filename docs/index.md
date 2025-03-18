@@ -10,6 +10,7 @@
 
 - [Hello Python e uma sequência de passos](helloseq.md)
 - Slides: [O que é um programa?](oqehumprog.html)
+- [O que é um algorítmo?](imgalgo.md) (Imagens e algoritmos)
 - [Variáveis e entrada de dados](varentr.md)
 - Desafio: [Sprites e coordenadas](spritesc.md)
 - [Execução condicional](cifelse.md)
