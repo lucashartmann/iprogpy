@@ -1,4 +1,4 @@
-# [Trilha Python - SENAC Tech 2025](index.md)
+# [Trilha Python](index.md)
 
 - [Roteiro de aulas](roteiro.md)
 - [Slides das apresentações](slides.md)
@@ -8,9 +8,23 @@
 
 ## Lógica de programação
 
+aula 01
 - [Hello Python e uma sequência de passos](helloseq.md)
+
+aula 02
+
 - Slides: [O que é um programa?](oqehumprog.html)
 - [O que é um algorítmo?](imgalgo.md) (Imagens e algoritmos)
-- [Variáveis e entrada de dados](varentr.md)
+
+---
+
+- [Arquitetura de computadores](arquicomp.md)
+- [Sistemas de numeração](sistnum.md)
+- [Codificação de cores](codcores.md)
+- [Variáveis](vars.md)
+- [Codificação de imagens](codimg.md)
+
+
 - Desafio: [Sprites e coordenadas](spritesc.md)
+- [Entrada de dados](entrada.md)
 - [Execução condicional](cifelse.md)

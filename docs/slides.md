@@ -1,4 +1,4 @@
-# [Trilha Python - SENAC Tech 2025](index.md)
+# [Trilha Python](index.md)
 
 ## Apresentações
 
