@@ -77,3 +77,5 @@ Quando criamos uma sequência de passos assim, chamamos ela de `Algorítmo`.
 > 1. seguimos para completar uma tarefa
 > 2. que podem ser repetidas para completar tarefas parecidas
 > 3. e que tem um fim - em algum momento nós paramos e a tarefa está pronta
+
+### [voltar](index.md)
