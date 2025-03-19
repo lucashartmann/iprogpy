@@ -28,5 +28,7 @@ aula 04
 
 - [Entrada de dados](entrada.md)
 - [Execução condicional](cifelse.md)
+
 ---
+
 - Desafio: [Sprites e coordenadas](spritesc.md)
