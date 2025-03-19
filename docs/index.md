@@ -16,15 +16,17 @@ aula 02
 - Slides: [O que é um programa?](oqehumprog.html)
 - [O que é um algorítmo?](imgalgo.md) (Imagens e algoritmos)
 
----
+aula 03
 
 - [Arquitetura de computadores](arquicomp.md)
 - [Sistemas de numeração](sistnum.md)
-- [Codificação de cores](codcores.md)
-- [Variáveis](vars.md)
-- [Codificação de imagens](codimg.md)
+- [Codificação de cores](codcores.md) - decimal e hexadecimal
+- [Variáveis](vars.md) - armazenando valores na memória RAM
+- [Codificação de imagens](codimg.md) - imagens e sprites
 
+aula 04
 
-- Desafio: [Sprites e coordenadas](spritesc.md)
 - [Entrada de dados](entrada.md)
 - [Execução condicional](cifelse.md)
+---
+- Desafio: [Sprites e coordenadas](spritesc.md)
