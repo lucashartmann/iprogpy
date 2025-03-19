@@ -1,4 +1,4 @@
- # [Trilha Python](index.md)
+# [Trilha Python](index.md)
 
 ## Entrada de dados
 
@@ -10,7 +10,7 @@ Os programas de exemplo abaixo rodam em um ambiente de desenvolvimento chamado [
 > 1. Arraste a imagem para a janela do *MakeCode*
 
  
- ## Programa de exemplo
+## Programa de exemplo
 
 Este é um exemplo de entrada de dados pelo usuário via teclado.
 
