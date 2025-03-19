@@ -25,6 +25,7 @@ Os numerais usados são 10 - por isso *decimal*.
 1, 2, 3, 4, 5, 6, 7, 8, 9 e 0
 
 Cada posição na cadeia de numerais que forma um número vale:
+
 |posição|4   |3  |2  |1 |
 |-------|----|---|---|--|
 |...    |1000|100|10 |1 |
@@ -38,6 +39,7 @@ Na posição `1` o numeral `8` vale `oito`.
 |-------|----|---|---|--|
 |...    |1000|100|10 |1 |
 |       |    |   |   |8 |
+
 ```
 Total = oito
 ```
@@ -48,6 +50,7 @@ Na posição `1` o numeral `8` vale `10x` seu valor: oitenta
 |-------|----|---|---|--|
 |...    |1000|100|10 |1 |
 |  decimal     |    |   |8  |0 |
+
 ```
 Total = oitenta
 ```
@@ -65,7 +68,6 @@ Para obter o valor numérico associado a essa representação, fazemos a `soma d
         1 x cem + 2 x dez + 8 x um = cento e vinte oito
 Total =   100   +   20    +   8    = cento e vinte oito
 ```
-
 
 ### Sistema binário
 
@@ -87,6 +89,7 @@ Na posição `1` o numeral `1` vale `um`.
 |-------|-----|------|----|---|
 |...    |8    |4     |2   |1  |
 |   binário    |     |      |    |1  |
+
 ```
 Total = um
 ```
@@ -97,6 +100,7 @@ Para formar o 2, colocamos o 1 na casa que vale 2
 |-------|-----|------|----|---|
 |...    |8    |4     |2   |1  |
 | binário      |     |      |1   |0  |
+
 ```
 Total = dois
 ```
@@ -107,9 +111,10 @@ Para formar o número 3 colocamos o 1 na casa que vale 1 e na que vale 2.
 |-------|-----|------|----|---|
 |...    |8    |4     |2   |1  |
 | binário      |     |      |1   |1  |
-Total = três
 
 ```
+Total = três
+
          1 x dois + 1 x um  = três
 Total =    2      +   1    +   8    = cento e vinte oito
 ```
@@ -120,6 +125,7 @@ Para formar o número 15
 |-------|-----|------|----|---|
 |...    |8    |4     |2   |1  |
 | binário      | 1   | 1    |1   |1  |
+
 ```
 Total = 8 + 4 + 2 + 1 = quinze
 ```
@@ -157,19 +163,19 @@ Na posição `2` o numeral `1` vale `dezesseis`.
 |val. decimal|64    |32    |16  |1 |
 |...         |oito  |quatro|dois|um|
 | hexa       |      |      |  1 |0 |
+
 ```
 Total = 16 + 0 = 16
 ```
 
 Para formar o valor `quarenta e dois`:
 
-
-
 |posição     |4     |3     |2   |1 |
 |------------|------|------|----|--|
 |val. decimal|64    |32    |16  |1 |
 |...         |oito  |quatro|dois|um|
 | hexa       |      |      |  2 |A |
+
 ```
 Total = 2 x 16 + 10 x 1  
           32   +    10   = 42
