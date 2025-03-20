@@ -26,9 +26,10 @@ aula 03
 
 aula 04
 
-- [Entrada de dados](entrada.md)
-- [Execução condicional](cifelse.md)
+- Desafio: [Sprites e coordenadas](spritesc.md)
+- [Contar uma história](umahistoria.md)
 
 ---
 
-- Desafio: [Sprites e coordenadas](spritesc.md)
+- [Entrada de dados](entrada.md)
+- [Execução condicional](cifelse.md)
