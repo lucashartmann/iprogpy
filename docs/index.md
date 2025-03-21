@@ -29,6 +29,9 @@ aula 04
 - Desafio: [Sprites e coordenadas](spritesc.md)
 - [Contar uma história](umahistoria.md)
 
+aula 05
+- [Diálogo entre a cobra e o cachorro](diacobraca.md)
+
 ---
 
 - [Entrada de dados](entrada.md)
