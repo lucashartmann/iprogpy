@@ -32,6 +32,24 @@ aula 04
 aula 05
 - [Diálogo entre a cobra e o cachorro](diacobraca.md)
 
+### Exercícios diálogos - 21/03/2025
+
+- https://makecode.com/_UMhE5YTaYa3U
+- https://makecode.com/_5XvhW8b2iMpr
+- https://makecode.com/_XUyHFvWA8aJk
+- https://makecode.com/_YCEAsUCvuDzk
+- https://makecode.com/_HxLRFPM2gV7J
+- https://makecode.com/S76548-10131-78037-23318
+- https://makecode.com/_WUF7WbPpjHTL
+- https://makecode.com/_d1iE1eTcFRvr
+- https://makecode.com/_LaRb9cPWYi9d
+- https://makecode.com/_gYfdWq7hUi42
+- https://makecode.com/_UkxAm29s1KYh
+
+
+
+
+
 ---
 
 - [Entrada de dados](entrada.md)
