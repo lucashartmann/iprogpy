@@ -31,8 +31,9 @@ aula 04
 
 aula 05
 - [Diálogo entre a cobra e o cachorro](diacobraca.md)
+- [Entrada de dados](entrada.md)
 
-### Exercícios diálogos - 21/03/2025
+### Exercícios entregues - 21/03/2025
 
 - [https://makecode.com/_UMhE5YTaYa3U](https://makecode.com/_UMhE5YTaYa3U)
 - [https://makecode.com/_5XvhW8b2iMpr](https://makecode.com/_5XvhW8b2iMpr)
@@ -46,11 +47,6 @@ aula 05
 - [https://makecode.com/_gYfdWq7hUi42](https://makecode.com/_gYfdWq7hUi42)
 - [https://makecode.com/_UkxAm29s1KYh](https://makecode.com/_UkxAm29s1KYh)
 
-
-
-
-
 ---
 
-- [Entrada de dados](entrada.md)
 - [Execução condicional](cifelse.md)
