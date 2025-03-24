@@ -12,15 +12,33 @@ Os programas de exemplo abaixo rodam em um ambiente de desenvolvimento chamado [
 
 ### Execução condicional - if, else
 
-Dependendo do valor de uma variável, executamos um bloco de código ou outro.
+Dependendo do valor de uma variável, executaremos um bloco de código ou outro.
+
+
+Neste primeiro exemplo conheceremos os valores `booleanos`: Verdadeiro/Falso.
 
 ![Execução condicional com if-else](img/arcade-apy-condicional.png)
 
 
 ### Validar senha
 
-Usamos `entrada de dados` e `execução condicional` para programar uma operação mais complexa
+Usaremos `entrada de dados` e `execução condicional` para programar uma operação mais complexa.
+
+Neste exemplo vamos comparar `strings` usando o operados de igualdade `==`.
 
 ![Validar senha](img/arcade-validar-senha.png)
+
+
+### Comparar valores numéricos
+
+Vamos experimentar outros operadores de comparação:
+
+- `==`  igual a
+- `<`   menor do que
+- `>`   maior do que
+- `<=`  menor ou igual a
+- `>=`  maior ou igual a
+
+![Comparar valores](img/arcade-comparar-valores.png)
 
 ### [voltar](index.md)
