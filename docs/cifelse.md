@@ -41,4 +41,18 @@ Vamos experimentar outros operadores de comparação:
 
 ![Comparar valores](img/arcade-comparar-valores.png)
 
+
+### Rolagem de dados - números aleatórios
+
+Vamos usar a função `randint()` para gerar um número inteiro aleatório (random).
+
+```python
+# Rolando um dado de 6 lados
+valor_do_dado = randint(1, 6)
+game.splash("Rolagem de dados", valor_do_dado)
+
+```
+![Rolagem de dados](img/arcade-rolagem-de-dados.png)
+
+
 ### [voltar](index.md)
