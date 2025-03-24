@@ -35,9 +35,9 @@ aula 05
 
 ### Exercícios entregues - 21/03/2025
 
-- [https://makecode.com/_UMhE5YTaYa3U](https://makecode.com/_UMhE5YTaYa3U)
 - [https://makecode.com/_5XvhW8b2iMpr](https://makecode.com/_5XvhW8b2iMpr)
 - [https://makecode.com/_XUyHFvWA8aJk](https://makecode.com/_XUyHFvWA8aJk)
+- [https://makecode.com/_UMhE5YTaYa3U](https://makecode.com/_UMhE5YTaYa3U)
 - [https://makecode.com/_YCEAsUCvuDzk](https://makecode.com/_YCEAsUCvuDzk)
 - [https://makecode.com/_HxLRFPM2gV7J](https://makecode.com/_HxLRFPM2gV7J)
 - [https://makecode.com/S76548-10131-78037-23318](https://makecode.com/S76548-10131-78037-23318)
@@ -48,5 +48,7 @@ aula 05
 - [https://makecode.com/_UkxAm29s1KYh](https://makecode.com/_UkxAm29s1KYh)
 
 ---
+
+Aula 06
 
 - [Execução condicional](cifelse.md)
