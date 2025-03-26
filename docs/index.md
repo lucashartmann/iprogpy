@@ -52,3 +52,18 @@ aula 05
 Aula 06
 
 - [Execução condicional](cifelse.md)
+
+Aula 07
+
+Exercícios apresentados
+
+- [https://makecode.com/_8UeYFR34JVMA](https://makecode.com/_8UeYFR34JVMA)
+- [https://makecode.com/_0p6E6iiwVKDy](https://makecode.com/_0p6E6iiwVKDy)
+- [https://makecode.com/_Dp8LahHJbEtC](https://makecode.com/_Dp8LahHJbEtC)
+- [https://makecode.com/_0uJHDPET7cwa](https://makecode.com/_0uJHDPET7cwa)
+- [https://makecode.com/_1EyajvWqz4r9](https://makecode.com/_1EyajvWqz4r9)
+- [https://makecode.com/_7YRHuYJeabuA](https://makecode.com/_7YRHuYJeabuA)
+
+Aula 08
+
+- [Exercícios com condicionais if-else](exercicios-condicionais.md)
