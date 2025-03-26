@@ -66,4 +66,8 @@ Exercícios apresentados
 
 Aula 08
 
+Fazer em aula os exercícios com condicionais if-else.
+
+As instruções estão no código de cada exercício.
+
 - [Exercícios com condicionais if-else](exercicios-condicionais.md)
