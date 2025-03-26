@@ -56,7 +56,7 @@ Aula 06
 Aula 07
 
 Exercícios apresentados
-
+- [https://makecode.com/_UD7VCEiyvAGd](https://makecode.com/_UD7VCEiyvAGd)
 - [https://makecode.com/_8UeYFR34JVMA](https://makecode.com/_8UeYFR34JVMA)
 - [https://makecode.com/_0p6E6iiwVKDy](https://makecode.com/_0p6E6iiwVKDy)
 - [https://makecode.com/_Dp8LahHJbEtC](https://makecode.com/_Dp8LahHJbEtC)
