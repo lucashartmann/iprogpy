@@ -71,3 +71,9 @@ Fazer em aula os exercícios com condicionais if-else.
 As instruções estão no código de cada exercício.
 
 - [Exercícios com condicionais if-else](exercicios-condicionais.md)
+
+Aula 09
+
+- [Ambiguidade e contexto](ambiguidade.md)
+- [Álgebra](algebra.md)
+- [Valor de Verdade](valordeverdade.md)
