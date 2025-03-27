@@ -26,3 +26,24 @@ Ao reescrever essa sentença, cuide o seguinte:
 
 1. a primeira deve deixar claro que "o homem é que está de posse do telescópio"
 2. a segunda deve deixar claro que "a mulher é que está de posse do telescópio"
+
+
+--- 
+
+A rua é sem saída.
+	Além de falso, é porque
+	a entrada de qq rua é uma saída.
+
+Morreu de tanto rir.
+	É em sentido literal ou figurado?
+
+O ar-condicionado não chega aqui em mim.
+	É o aparelho que não chega
+	ou é o ar soprado por ele
+	que não chega?
+
+
+
+A mulher viu o homem com o telescópio.
+
+
