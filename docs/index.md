@@ -77,3 +77,11 @@ Aula 09
 - [Ambiguidade e contexto](ambiguidade.md)
 - [Álgebra](algebra.md)
 - [Valor de Verdade](valordeverdade.md)
+
+Aula 10
+
+- Eventos
+
+Aula 11
+
+- [Projeto 01 - Jogo](proj01jogo.md) - E um desafio no final
