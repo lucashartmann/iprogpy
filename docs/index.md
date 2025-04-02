@@ -85,3 +85,7 @@ Aula 10
 Aula 11
 
 - [Projeto 01 - Jogo](proj01jogo.md) - E um desafio no final
+
+Aula 12
+
+[Exercícios](exercicios-seq-cod-eventos.md)
