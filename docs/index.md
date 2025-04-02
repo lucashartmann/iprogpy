@@ -88,4 +88,4 @@ Aula 11
 
 Aula 12
 
-[Exercícios](exercicios-seq-cod-eventos.md)
+- [Exercícios](exercicios-seq-cod-eventos.md)
