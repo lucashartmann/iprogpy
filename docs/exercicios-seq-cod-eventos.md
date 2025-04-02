@@ -23,14 +23,15 @@
 
     ![](img/arcade-exercicio-corrigir-04.png)
 
-    4. O programa abaixo está errado. A princesa está sempre perguntando "Onde você vai?". Corrija o programa para que ela pergunte "Onde você vai?" apenas se o cavaleiro sair da tela pelo lado esquerdo.
+4. O programa abaixo está errado. A princesa está sempre perguntando "Onde você vai?". Corrija o programa para que ela pergunte "Onde você vai?" apenas se o cavaleiro sair da tela pelo lado esquerdo.
 
     ![](img/arcade-exercicio-corrigir-05.png)
 
 
-    5. Leia e interprete o programa abaixo e responda: qual deve ser PRECISAMENTE a posição `x` da princesa para que o jogo termine?
+5. Leia e interprete o programa abaixo e responda: qual deve ser PRECISAMENTE a posição `x` da princesa para que o jogo termine?
 
-    ![](img/arcade-exercicio-corrigir-06.png)
+    ![](img/arcade-exercicio-corrigir-06-codigo.png)
 
- ### [Voltar](index.md)
+
+### [Voltar](index.md)
 
