@@ -34,16 +34,16 @@
 
 4. Implemente no programa abaixo a seguinte condição:
 
-```
-Se ataque maior que mana:
-    escrever "Bem vindo bárbaro!"
-Senão se mana maior que defesa:
-    escrever "Bem vindo mago!"
-Senão se ataque menor que defesa:
-    escrever "Bem vindo ladrão!"
-```
+    ```
+    Se ataque maior que mana:
+        escrever "Bem vindo bárbaro!"
+    Senão se mana maior que defesa:
+        escrever "Bem vindo mago!"
+    Senão se ataque menor que defesa:
+        escrever "Bem vindo ladrão!"
+    ```
 
-![](img/arcade-exercicio-corrigir-08.png)
+    ![](img/arcade-exercicio-corrigir-08.png)
 
 5. No programa abaixo, há uma marca no chão que está na posição `x=72, y=56`. Corrija e complete o programa para que:
     - ao pressionar `B` o cavaleiro só fale com a princesa se ele tiver passado dessa marca.
